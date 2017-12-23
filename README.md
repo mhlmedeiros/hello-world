@@ -1,4 +1,4 @@
-# hello_world
+# hello-world
 Tutorial
 
 Hello there! I'm a new user of GitHub. As a theoretical computational physicist, 
